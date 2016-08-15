@@ -1,7 +1,7 @@
 /Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/controllers/PageController.java
 /Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/model/UserUpdate.java
+/Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/tests/UserTest.java
 /Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/model/UserUpdateDao.java
 /Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/controllers/AuthController.java
-/Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/tests/StatusTest.java
 /Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/App.java
 /Users/nikolayarkhipov/git/javarush-user/springboot-javarush-userdatabase/src/main/java/com/nikolayarkhipov/service/UserUpdateService.java

@@ -8,7 +8,7 @@
 <%-- Number of page numbers to display at once. --%>
 <%@ attribute name="size" required="false"%>
 
-<c:set var="size" value="${empty size ? 5: size}" />
+<c:set var="size" value="${empty size ? 10: size}" />
 
 <c:set var="block" value="${empty param.b ? 0: param.b}" />
 
